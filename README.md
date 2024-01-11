@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Chetana Gaikwad
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning various subjects of Computer but have keen intrest in front end development
+- 💞️ I’m looking to grab intrenship for and task related to front end web development
+- 📫 you can reach me at chetanagaikwad35@gmail.com
+- 😄 Pronouns: Her
+- ⚡ Fun fact: I am student of computer engineering and have basic knowledge of all the subjects regarding CSE
